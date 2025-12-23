@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NexLev AI: YouTube Niche Explorer",
+  "description": "An AI-powered dashboard for YouTube niche discovery, CPM estimation, and saturation analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
